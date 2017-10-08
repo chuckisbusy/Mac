@@ -1,0 +1,48 @@
+facebook.com##.home_right_column .ego_column.egoOrganicColumn
+facebook.com###globalContainer .ego_column._8_9.egoOrganicColumn
+facebook.com###rightCol .ego_column.egoOrganicColumn
+facebook.com###pagelet_trending_tags_and_topics
+facebook.com###music_services
+facebook.com##.rightColumnWrapper > ._5ksw
+facebook.com##.rightColumnWrapper > ._5ms_
+facebook.com##.rightColumnWrapper .fbRemindersRemove + #custom_reminders_link[data-gt*="\"appid\":\""]
+facebook.com###pagelet_games_rhc
+facebook.com##.fbMainStreamAttachment ._4hh
+facebook.com##.fbMainStreamAttachment ._4hl
+facebook.com##.commentable_item + .mvs
+facebook.com##.commentable_item + div > .mvs
+facebook.com##div[id^="substream_"] > div > div > .mvm
+facebook.com##DIV[id^="substream_"] > DIV > DIV > DIV > .mbm > ._4_ck
+facebook.com##DIV[id^="substream_"] > DIV > DIV > DIV[data-ownerid^="u_"] > .mvm
+facebook.com##DIV[id^="substream_"] > DIV > DIV > DIV[data-ownerid^="u_"] > DIV > .mbm > ._4_ck
+facebook.com##DIV[id^="feed_stream_"] > DIV[id^="js_"] > DIV > DIV > DIV[data-ownerid^="u_"] > .mvm
+facebook.com##DIV[id^="substream_"] ._2bex > .mbm > ._4_ck
+facebook.com###pagelet_group_ .mbm > ._4_ck
+facebook.com##.userContentWrapper > ._5pax > DIV > .mvs
+facebook.com##.storyContent > .storyUnconnectedPost
+facebook.com##.mbm._6nl + .uiList > ._6n2
+facebook.com##.mbm._6nl
+facebook.com##._5pcr > .mbm._43rz
+facebook.com##._5pcr > .mbm._43rz + ._43r-
+facebook.com##.mbm._43rz + .uiList > ._43s1
+facebook.com##.mbm._43rz + .uiList + .uiList
+facebook.com##.mbm > ._5pcr > .mbs + ._43r- > .uiList
+facebook.com##.mbm > ._5pcr > .mbs
+facebook.com##DIV[id^="topnews_main_stream_"] .userContentWrapper > ._1dwg > ._5x46 > A[href="https://www.facebook.com/games/"]
+facebook.com##DIV[id^="topnews_main_stream_"] .userContentWrapper > ._1dwg ._50z3 > ._50zm
+facebook.com##DIV[id^="topnews_main_stream_"] .userContentWrapper > ._1dwg > ._5x46 > ._3dp._29k > DIV > ._5pbw > .fsl.fwb.fcb
+facebook.com##DIV[id^="topnews_main_stream_"] .userContentWrapper > ._1dwg > ._5x46 > ._3dp._29k > DIV > ._5pbw + .uiLinkSubtle[href="https://www.facebook.com/games/"]
+facebook.com###stream_pagelet > #pagelet_composer + ._4-u2._2ph_._3-95
+facebook.com##.photoUfiContainer .ego_column.egoOrganicColumn
+facebook.com##.megaphone_location_pages_feed
+apps.facebook.com###rightCol
+facebook.com###pagelet_pymk_timeline
+mocospace.com#@#.dfp_ad
+mocospace.com#@#.ads1x1
+@@/html/images/blank.png$image,domain=mocospace.com
+mocospace.com###dialog-adblocker
+mocospace.com##.jqmOverlay
+xhamster.com###content > TBODY > TR:first-child > TD:last-child > DIV:first-child
+xhamster.com###swectrqw
+imore.com###node-42998 > div.article-body-wrap:nth-child(4) > div.container.columns-2:first-child > section.col-main:first-child > div.article-body:first-child > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div.field-items > div.field-item.even > p:nth-child(5) > a > img
+imore.com###node-42998 > div.article-body-wrap:nth-child(4) > div.container.columns-2:first-child > section.col-main:first-child > div.article-body:first-child > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div.field-items > div.field-item.even > p:nth-child(28) > a > img
