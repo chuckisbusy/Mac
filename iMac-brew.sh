@@ -14,52 +14,57 @@ brew install Caskroom/cask/xquartz
 brew install grace
 brew install mas
 
-mas install 883878097 Server (5.3.1)
-mas install 1278508951 Trello (2.9.6)
-mas install 430255202 Mactracker (7.6.6)
-mas install 1153157709 Speedtest (1.3)
-mas install 880001334 Reeder (3.0.5)
-mas install 682658836 GarageBand (10.2.0)
-mas install 867299399 OmniFocus (2.11)
-mas install 425264550 Blackmagic Disk Speed Test (3.1)
-mas install 510232205 The Archive Browser (1.11.1)
-mas install 497799835 Xcode (9.0)
-mas install 736189492 Notability (2.6.2)
-mas install 858446756 World Clock Pro (1.6.5)
-mas install 403504866 PCalc (4.5)
-mas install 557168941 Tweetbot (2.5.3)
-mas install 924726344 Deliveries (3.0.5)
-mas install 1055273043 PDF Expert (2.2.1)
-mas install 896450579 Textual (6.0.12)
-mas install 982710545 Forecast Bar (3.0.2)
-mas install 916198600 Grids for Instagram (4.5.11)
-mas install 1107473342 Clock Pro (1.2.8)
-mas install 441258766 Magnet (2.1.0)
-mas install 425424353 The Unarchiver (3.11.3)
-mas install 461369673 VOX (2.8.27)
-mas install 1233048948 Boom 3D (1.1)
-mas install 1224268771 Screens 4 (4.1.3)
-mas install 568494494 Pocket (1.6.2)
-mas install 409789998 Twitter (4.3.2)
-mas install 420212497 Byword (2.8.1)
-mas install 865500966 feedly (1.1)
-mas install 823766827 OneDrive (17.3.6967)
-mas install 409201541 Pages (6.3)
-mas install 979561272 Just Press Record (1.5)
-mas install 975937182 Fantastical 2 (2.4.1)
-mas install 803453959 Slack (2.8.0)
-mas install 979299240 NetworkUtilityX (6.0.2)
-mas install 418889511 Scrivener (2.8.1)
-mas install 1040087482 Periodic Table Chemistry (3.3.1)
-mas install 635491590 Deluxe Moon Pro (1.6)
-mas install 405399194 Kindle (1.20.3)
-mas install 402355593 Chronicle (7.0.2)
-mas install 408981434 iMovie (10.1.7)
-mas install 409203825 Numbers (4.3)
-mas install 443987910 1Password (6.8.2)
-mas install 409183694 Keynote (7.3)
-mas install 409907375 Remote Desktop (3.9)
-mas install 967805235 Paste (2.2.3)
+mas install 883878097 #Server
+mas install 1278508951 #Trello
+mas install 430255202 #Mactracker
+mas install 967805235 #Paste
+mas install 1153157709 #Speedtest
+mas install 880001334 #Reeder
+mas install 682658836 #GarageBand
+mas install 867299399 #OmniFocus
+mas install 425264550 #Blackmagic
+mas install 510232205 #The
+mas install 497799835 #Xcode
+mas install 736189492 #Notability
+mas install 858446756 #World
+mas install 534067900 #Stock
+mas install 403504866 #PCalc
+mas install 557168941 #Tweetbot
+mas install 924726344 #Deliveries
+mas install 1055273043 #PDF
+mas install 982710545 #Forecast
+mas install 916198600 #Grids
+mas install 1233048948 #Boom
+mas install 1107473342 #Clock
+mas install 441258766 #Magnet
+mas install 425424353 #The
+mas install 461369673 #VOX
+mas install 1224268771 #Screens
+mas install 1262957439 #Textual
+mas install 1048338802 #Cookie
+mas install 1063996724 #Tyme2
+mas install 568494494 #Pocket
+mas install 409789998 #Twitter
+mas install 420212497 #Byword
+mas install 865500966 #feedly
+mas install 823766827 #OneDrive
+mas install 409201541 #Pages
+mas install 979561272 #Just
+mas install 975937182 #Fantastical
+mas install 803453959 #Slack
+mas install 979299240 #NetworkUtilityX
+mas install 418889511 #Scrivener
+mas install 1040087482 #Periodic
+mas install 635491590 #Deluxe
+mas install 405399194 #Kindle
+mas install 457622435 #Yoink
+mas install 408981434 #iMovie
+mas install 409203825 #Numbers
+mas install 1142578772 #OmniOutliner
+mas install 443987910 #1Password
+mas install 1280542517 #Chronicle
+mas install 409183694 #Keynote
+mas install 409907375 #Remote
 
 brew cask install calibre 		#Calibre
 brew cask install dropbox 		#Dropbox
