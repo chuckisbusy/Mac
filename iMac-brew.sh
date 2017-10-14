@@ -66,6 +66,7 @@ mas install 1280542517 #Chronicle8(8.0.0)
 mas install 409183694 #Keynote(7.3)
 mas install 409907375 #RemoteDesktop(3.9)
 
+brew cask install adguard       #Adguard
 brew cask install calibre 		#Calibre
 brew cask install dropbox 		#Dropbox
 brew cask install flash-ppapi		#Flash Player-1
