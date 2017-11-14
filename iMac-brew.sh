@@ -17,7 +17,7 @@ brew install mas
 mas install 883878097 #Server(5.3.1)
 mas install 1278508951 #Trello(2.9.7)
 mas install 430255202 #Mactracker(7.6.6)
-mas install 967805235 #Paste(2.2.4)
+mas install 1026349850 #Copied (2.0.6)
 mas install 1153157709 #Speedtest(1.3)
 mas install 880001334 #Reeder(3.0.5)
 mas install 682658836 #GarageBand(10.2.0)
@@ -26,6 +26,7 @@ mas install 425264550 #BlackmagicDiskSpeed
 mas install 510232205 #TheArchiveBrowser
 mas install 497799835 #Xcode(9.0)
 mas install 736189492 #Notability(2.7.2)
+mas install 1290358394 #Cardhop
 mas install 858446756 #WorldClockPro
 mas install 534067900 #Stock+Pro
 mas install 403504866 #PCalc(4.5)
