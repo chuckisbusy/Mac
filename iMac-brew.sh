@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+xcode-select --install
 if [ ! -x /usr/local/bin/brew ]; then
     echo "installing homebrew"
     /usr/bin/env ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
