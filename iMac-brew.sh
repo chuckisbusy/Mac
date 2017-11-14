@@ -23,7 +23,6 @@ mas install 682658836 #GarageBand(10.2.0)
 mas install 867299399 #OmniFocus(2.11.1)
 mas install 425264550 #BlackmagicDiskSpeed
 mas install 510232205 #TheArchiveBrowser
-mas install 497799835 #Xcode(9.0)
 mas install 736189492 #Notability(2.7.2)
 mas install 1290358394 #Cardhop
 mas install 858446756 #WorldClockPro
