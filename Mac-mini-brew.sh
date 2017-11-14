@@ -12,21 +12,21 @@ brew tap buo/cask-upgrade
 brew tap caskroom/cask
 brew install mas
 
-mas install #409907375 Remote Desktop (3.9)
-425424353 #The Unarchiver (3.11.3)
-409183694 #Keynote (7.3.1)
-408981434 #iMovie (10.1.8)
-967004861 #HP Easy Scan (1.9.1)
-510232205 #The Archive Browser (1.11.1)
-443987910 #1Password (6.8.4)
-979299240 #NetworkUtilityX (6.0.2)
-883878097 #Server (5.3.1)
-403504866 #PCalc (4.5.2)
-1224268771 #Screens 4 (4.3.1)
-1026349850 #Copied (2.0.6)
-409201541 #Pages (6.3.1)
-409203825 #Numbers (4.3.1)
-1148868081 #iStat View (3.03)
+mas install 409907375 Remote Desktop (3.9)
+mas install 425424353 #The Unarchiver (3.11.3)
+mas install 409183694 #Keynote (7.3.1)
+mas install 408981434 #iMovie (10.1.8)
+mas install 967004861 #HP Easy Scan (1.9.1)
+mas install 510232205 #The Archive Browser (1.11.1)
+mas install 443987910 #1Password (6.8.4)
+mas install 979299240 #NetworkUtilityX (6.0.2)
+mas install 883878097 #Server (5.3.1)
+mas install 403504866 #PCalc (4.5.2)
+mas install 1224268771 #Screens 4 (4.3.1)
+mas install 1026349850 #Copied (2.0.6)
+mas install 409201541 #Pages (6.3.1)
+mas install 409203825 #Numbers (4.3.1)
+mas install 1148868081 #iStat View (3.03)
 
 
 brew cask install google-chrome 	#Google Chrome
