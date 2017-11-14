@@ -11,8 +11,7 @@ brew install python python3 p7zip wget unrar duti bash tree rename screen zsh
 brew tap buo/cask-upgrade
 brew tap caskroom/cask
 brew install Caskroom/cask/xquartz
-brew install grace
-brew install mas
+brew install grace ipython mas
 
 mas install 883878097 #Server(5.3.1)
 mas install 1278508951 #Trello(2.9.7)
