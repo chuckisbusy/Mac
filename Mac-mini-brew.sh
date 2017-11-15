@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 xcode-select --install
+sleep 4m
 if [ ! -x /usr/local/bin/brew ]; then
     echo "installing homebrew"
     /usr/bin/env ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -13,7 +14,7 @@ brew tap buo/cask-upgrade
 brew tap caskroom/cask
 brew install mas
 
-mas install 409907375 Remote Desktop (3.9)
+mas install 409907375 #Remote Desktop (3.9)
 mas install 425424353 #The Unarchiver (3.11.3)
 mas install 409183694 #Keynote (7.3.1)
 mas install 408981434 #iMovie (10.1.8)
