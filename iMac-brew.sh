@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 xcode-select --install
+sleep 5m
 if [ ! -x /usr/local/bin/brew ]; then
     echo "installing homebrew"
     /usr/bin/env ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -23,6 +24,7 @@ mas install 880001334 #Reeder(3.0.5)
 mas install 682658836 #GarageBand(10.2.0)
 mas install 867299399 #OmniFocus(2.11.1)
 mas install 425264550 #BlackmagicDiskSpeed
+#mas install 497799835 Xcode (9.1)
 mas install 510232205 #TheArchiveBrowser
 mas install 736189492 #Notability(2.7.2)
 mas install 1290358394 #Cardhop
