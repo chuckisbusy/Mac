@@ -68,6 +68,7 @@ mas install 1280542517 #Chronicle8(8.0.0)
 mas install 409183694 #Keynote(7.3)
 mas install 409907375 #RemoteDesktop(3.9)
 
+brew cask install adobe-acrobat-reader #Acrobat reader
 brew cask install adguard           #Adguard
 brew cask install transmit          #Transmit
 brew cask install calibre 		    #Calibre
