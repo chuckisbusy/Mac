@@ -31,7 +31,7 @@ mas install 409201541 #Pages (6.3.1)
 mas install 409203825 #Numbers (4.3.1)
 mas install 1148868081 #iStat View (3.03)
 
-
+brew cask install transmit          #Transmit
 brew cask install google-chrome 	#Google Chrome
 brew cask install istat-server 		#iStat Server
 brew cask install screens-connect 	#Screen Connect
