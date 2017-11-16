@@ -68,22 +68,23 @@ mas install 1280542517 #Chronicle8(8.0.0)
 mas install 409183694 #Keynote(7.3)
 mas install 409907375 #RemoteDesktop(3.9)
 
-brew cask install adguard       #Adguard
-brew cask install calibre 		#Calibre
-brew cask install dropbox 		#Dropbox
+brew cask install adguard           #Adguard
+brew cask install transmit          #Transmit
+brew cask install calibre 		    #Calibre
+brew cask install dropbox 		    #Dropbox
 brew cask install flash-ppapi		#Flash Player-1
 brew cask install flash-npapi		#Flash Player-2
 brew cask install google-chrome 	#Google Chrome
 brew cask install istat-server 		#iStat Server
-brew cask install java			#Java
+brew cask install java			    #Java
 brew cask install omnipresence 		#OmniPresence
 brew cask install screens-connect 	#Screen Connect
-brew cask install spotify 		#Spotify
+brew cask install spotify 		    #Spotify
 brew cask install sublime-text 		#Sublime Text
 brew cask install torbrowser 		#Tor Browser 
 brew cask install transmission 		#Transmission
-brew cask install xld 			#XLD
-brew cask install vlc			#VLC
+brew cask install xld 			    #XLD
+brew cask install vlc			    #VLC
 brew cleanup
 
 echo 'Install from Search:
