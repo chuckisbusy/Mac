@@ -25,6 +25,7 @@ mas install 867299399 #OmniFocus(2.11.1)
 mas install 425264550 #BlackmagicDiskSpeed
 #mas install 497799835 Xcode (9.1)
 mas install 510232205 #TheArchiveBrowser
+mas install 1148868081 iStat View (3.03)
 mas install 736189492 #Notability(2.7.2)
 mas install 1290358394 #Cardhop
 mas install 858446756 #WorldClockPro
@@ -68,9 +69,10 @@ mas install 409183694 #Keynote(7.3)
 mas install 409907375 #RemoteDesktop(3.9)
 
 brew cask install adobe-acrobat-reader #Acrobat reader
+brew cask install alfred            #Alfred App
 brew cask install adguard           #Adguard
 brew cask install transmit          #Transmit
-brew cask install calibre 		    #Calibre
+brew cask install calibre 		    #Calibre eBook
 brew cask install dropbox 		    #Dropbox
 brew cask install flash-ppapi		#Flash Player-1
 brew cask install flash-npapi		#Flash Player-2
