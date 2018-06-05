@@ -81,6 +81,7 @@ brew cask install istat-server 		#iStat Server
 brew cask install java			    #Java
 brew cask install omnipresence 		#OmniPresence
 brew cask install screens-connect 	#Screen Connect
+brew cask install skype             #Skype
 brew cask install spotify 		    #Spotify
 brew cask install sublime-text 		#Sublime Text
 brew cask install torbrowser 		#Tor Browser 
