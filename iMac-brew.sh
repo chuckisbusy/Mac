@@ -92,7 +92,8 @@ brew cleanup
 
 echo 'Install from Search:
 Cisco Anyconnect
-Logitech
+Intel Power Gadget
+Logitech (Options,Gaming,Spotlight Presentation)
 Microsoft Office
 VMD'
 
