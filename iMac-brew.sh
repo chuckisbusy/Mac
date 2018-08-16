@@ -30,6 +30,7 @@ mas install 736189492 #Notability(2.7.2)
 mas install 1290358394 #Cardhop
 mas install 858446756 #WorldClockPro
 mas install 534067900 #Stock+Pro
+mas install 1147396723 #WhatsApp (0.3.33)
 mas install 403504866 #PCalc(4.5)
 mas install 557168941 #Tweetbot(2.5.3)
 mas install 924726344 #Deliveries(3.0.5)
