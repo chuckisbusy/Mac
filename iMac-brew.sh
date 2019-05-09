@@ -100,11 +100,10 @@ Microsoft Office
 VMD'
 
 defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
-echo 'Add this to /etc/shells:
+defaults delete com.apple.dock; killall Dock
 
 sudo sed -i 's/\/usr\/bin\/bash\/\/usr\/local\/bin\/bash/g' /etc/shells
 sudo sh -c 'echo /usr/local/bin/zsh >> /etc/shells'
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugins/zsh-completions
 git clone git://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
