@@ -12,7 +12,7 @@ brew install python python3 p7zip wget unrar duti bash tree rename screen zsh
 brew tap buo/cask-upgrade
 brew tap caskroom/cask
 brew install Caskroom/cask/xquartz
-brew install grace mas
+brew install grace mas smartmontools
 
 mas install 883878097 #Server(5.3.1)
 mas install 1278508951 #Trello(2.9.7)
@@ -85,6 +85,7 @@ brew cask install screens-connect 	#Screen Connect
 brew cask install skype             #Skype
 brew cask install spotify 		    #Spotify
 brew cask install sublime-text 		#Sublime Text
+brew cask install sublime-merge		#Sublime Merge
 brew cask install torbrowser 		#Tor Browser 
 brew cask install transmission 		#Transmission
 brew cask install xld 			    #XLD
