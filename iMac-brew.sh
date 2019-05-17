@@ -105,5 +105,5 @@ sudo sh -c 'echo /usr/local/bin/zsh >> /etc/shells'
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugins/zsh-completions
 git clone git://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
-sudo easy_install Pygments
+sudo pip install Pygments
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/zshrc-iMac.txt -o ~/.zshrc
