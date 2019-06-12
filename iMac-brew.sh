@@ -8,11 +8,9 @@ else
     echo "homebrew is installed"
 fi
 
-brew install python python3 p7zip wget unrar duti bash tree rename screen zsh osxfuse
 brew tap buo/cask-upgrade
 brew tap caskroom/cask
-brew install xquartz
-brew install grace mas smartmontools sshfs
+brew install grace mas python python3 p7zip wget unrar duti bash tree rename screen zsh osxfuse smartmontools sshfs
 
 mas install 883878097 #Server(5.3.1)
 mas install 1278508951 #Trello(2.9.7)
@@ -87,6 +85,7 @@ brew cask install sublime-text 		#Sublime Text
 brew cask install sublime-merge		#Sublime Merge
 brew cask install transmission 		#Transmission
 brew cask install xld 			    #XLD
+brew cask install xquartz           #X11/XQuartx
 brew cask install vlc			    #VLC
 brew cleanup
 
