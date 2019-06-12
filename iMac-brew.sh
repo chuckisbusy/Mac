@@ -10,7 +10,7 @@ fi
 
 brew tap buo/cask-upgrade
 brew tap caskroom/cask
-brew install grace mas python python3 p7zip wget unrar duti bash tree rename screen zsh osxfuse smartmontools sshfs
+brew install grace mas python python3 p7zip wget unrar duti bash tree rename screen zsh osxfuse smartmontools sshfs pymol
 
 mas install 883878097 #Server(5.3.1)
 mas install 1278508951 #Trello(2.9.7)
@@ -101,6 +101,7 @@ defaults delete com.apple.dock; killall Dock
 
 sudo sed -i 's/\/usr\/bin\/bash\/\/usr\/local\/bin\/bash/g' /etc/shells
 sudo sh -c 'echo /usr/local/bin/zsh >> /etc/shells'
+sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugins/zsh-completions
 git clone git://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
