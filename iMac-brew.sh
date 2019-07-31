@@ -10,7 +10,7 @@ fi
 
 brew tap buo/cask-upgrade
 brew tap caskroom/cask
-brew install grace mas python python3 p7zip wget unrar duti bash tree rename screen zsh osxfuse smartmontools sshfs pymol
+brew install grace mas python python3 p7zip wget unrar duti bash tree rename screen zsh smartmontools sshfs
 
 mas install 883878097 #Server(5.3.1)
 mas install 1278508951 #Trello(2.9.7)
@@ -78,6 +78,7 @@ brew cask install flash-npapi		#Flash Player-2
 brew cask install google-chrome 	#Google Chrome
 brew cask install istat-server 		#iStat Server
 brew cask install java			    #Java
+brew cask install osxfuse           #OSXFuse
 brew cask install screens-connect 	#Screen Connect
 brew cask install skype             #Skype
 brew cask install spotify 		    #Spotify
