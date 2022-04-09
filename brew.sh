@@ -96,7 +96,7 @@ wget https://bootstrap.pypa.io/get-pip.py
 sudo python3 get-pip.py
 sudo pip3 install Pygments
 rm -rf ~/.zshrc
-wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/zshrc-iMac.txt -O ~/.zshrc
+wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/zshrc-MBP.txt -O ~/.zshrc
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/pymolrc.txt -O ~/.pymolrc
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/vimrc.txt -O ~/.vimrc
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/tmux-conf.txt -O ~/.tmux.conf
