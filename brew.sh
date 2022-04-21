@@ -2,7 +2,6 @@
 #
 
 xcode-select --install
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 brew install mas
 brew install python3 p7zip wget duti bash tree tmux rename screen sshfs youtube-dl zsh grace smartmontools
@@ -96,7 +95,7 @@ wget https://bootstrap.pypa.io/get-pip.py
 sudo python3 get-pip.py
 sudo pip3 install Pygments
 rm -rf ~/.zshrc
-wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/zshrc-MBP.txt -O ~/.zshrc
+wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/zshrc -O ~/.zshrc
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/pymolrc.txt -O ~/.pymolrc
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/vimrc.txt -O ~/.vimrc
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/tmux-conf.txt -O ~/.tmux.conf
