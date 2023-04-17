@@ -4,7 +4,7 @@
 xcode-select --install
 
 brew install mas
-brew install python3 p7zip wget duti bash tree tmux rename screen sshfs youtube-dl zsh grace smartmontools
+brew install p7zip wget duti bash tree tmux rename screen youtube-dl zsh grace smartmontools
 
 mas install 430255202   # Mactracker                     (7.11.2)
 mas install 979299240   # Network Kit                    (9.0.3)
