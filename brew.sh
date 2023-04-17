@@ -87,12 +87,10 @@ Logitech (Options(MPB),Gaming(iMac),Spotlight Presentation)
 Microsoft Office
 OneDrive
 OSXFuse
+SSHFS
 Pymol
 VMD'
 
-cd ~/Downloads
-wget https://bootstrap.pypa.io/get-pip.py
-sudo python3 get-pip.py
 sudo pip3 install Pygments
 rm -rf ~/.zshrc
 wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/zshrc -O ~/.zshrc
