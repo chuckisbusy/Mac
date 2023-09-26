@@ -79,9 +79,7 @@ Logitech (Options(MPB),Gaming(iMac),Spotlight Presentation)
 Trakt
 Aftership
 OSXFuse
-SSHFS
-Pymol
-VMD'
+SSHFS'
 
 sudo pip3 install Pygments
 rm -rf ~/.zshrc
