@@ -74,7 +74,6 @@ brew install --cask xquartz
 brew cleanup
 
 echo 'Install from Search:
-LibreOffice
 Logitech (Options(MPB),Gaming(iMac),Spotlight Presentation)
 Trakt
 Aftership
