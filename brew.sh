@@ -59,6 +59,7 @@ brew install --cask github
 brew install --cask google-chrome
 brew install --cask paragon-extfs
 brew install --cask paragon-ntfs
+brew install --cask obsidian
 brew install --cask readdle-spark
 brew install --cask screens-connect
 brew install --cask skype
