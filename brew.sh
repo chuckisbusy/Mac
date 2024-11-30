@@ -4,7 +4,7 @@
 xcode-select --install
 
 brew install mas
-brew install cask wget duti bash tree tmux rename screen youtube-dl zsh smartmontools grace python@3.11
+brew install cask wget duti bash tmux rename screen youtube-dl zsh grace python@3.11
 
 mas install 430255202   # Mactracker                      (7.12.1)
 mas install 979299240   # Network Kit                     (9.0.3)
@@ -42,6 +42,7 @@ mas install 1463334954  # SessionRestore                  (2.7.4)
 mas install 409203825   # Numbers                         (12.2.1)
 mas install 1193539993  # Brother iPrint&Scan             (10.2.0)
 mas install 409183694   # Keynote                         (12.2.1)
+mas install 803453959
 
 brew install --cask 1password
 brew install --cask adguard
@@ -56,6 +57,7 @@ brew install --cask fantastical
 brew install --cask github
 brew install --cask google-chrome
 brew install --cask jordanbaird-ice
+brew install --cask mendeley
 brew install --cask obsidian
 brew install --cask paragon-extfs
 brew install --cask paragon-ntfs
@@ -69,6 +71,7 @@ brew install --cask transmit
 brew install --cask vlc
 brew install --cask xld
 brew install --cask xquartz
+brew install --cask zotero
 
 brew cleanup
 
@@ -77,7 +80,13 @@ Logitech (Options(MPB),Gaming(iMac),Spotlight Presentation)
 Trakt
 Aftership
 OSXFuse
-SSHFS'
+SSHFS
+Microsoft Office
+Adobe Creative Cloud
+Latex
+Dash
+Mediainfo
+Spek'
 
 sudo pip3 install Pygments
 rm -rf ~/.zshrc
