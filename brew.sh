@@ -4,7 +4,7 @@
 xcode-select --install
 
 brew install mas
-brew install cask rar p7zip wget duti bash tree tmux rename screen youtube-dl zsh smartmontools
+brew install cask wget duti bash tree tmux rename screen youtube-dl zsh smartmontools grace python@3.11
 
 mas install 430255202   # Mactracker                      (7.12.1)
 mas install 979299240   # Network Kit                     (9.0.3)
@@ -26,7 +26,6 @@ mas install 1289583905  # Pixelmator Pro                  (3.2.3)
 mas install 1348635544  # Moon Calendar for menu bar      (1.7)
 mas install 441258766   # Magnet                          (2.10.0)
 mas install 1136220934  # Infuse                          (7.4.10)
-mas install 1262957439  # Textual IRC Client              (7.2.1)
 mas install 969714962   # Television Time                 (2.1)
 mas install 568494494   # Pocket                          (1.8.7)
 mas install 494803304   # WiFi Explorer                   (3.4)
@@ -48,7 +47,6 @@ brew install --cask 1password
 brew install --cask adguard
 brew install --cask alfred
 brew install --cask appcleaner
-brew install --cask bartender
 brew install --cask betterzip
 brew install --cask calibre
 brew install --cask cookie
@@ -57,19 +55,19 @@ brew install --cask dropbox
 brew install --cask fantastical
 brew install --cask github
 brew install --cask google-chrome
+brew install --cask jordanbaird-ice
+brew install --cask obsidian
 brew install --cask paragon-extfs
 brew install --cask paragon-ntfs
-brew install --cask obsidian
-brew install --cask readdle-spark
 brew install --cask screens-connect
 brew install --cask skype
 brew install --cask soulver 
 brew install --cask spotify
 brew install --cask sublime-text
-brew install --cask tradingview
 brew install --cask transmission
 brew install --cask transmit
 brew install --cask vlc
+brew install --cask xld
 brew install --cask xquartz
 
 brew cleanup
