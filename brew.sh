@@ -83,10 +83,12 @@ OSXFuse
 SSHFS
 Microsoft Office
 Adobe Creative Cloud
+PyMol
 Latex
 Dash
 Mediainfo
-Spek'
+Spek
+Yates'
 
 sudo pip3 install Pygments
 rm -rf ~/.zshrc
