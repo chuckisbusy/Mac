@@ -42,7 +42,7 @@ mas install 1463334954  # SessionRestore                  (2.7.4)
 mas install 409203825   # Numbers                         (12.2.1)
 mas install 1193539993  # Brother iPrint&Scan             (10.2.0)
 mas install 409183694   # Keynote                         (12.2.1)
-mas install 803453959
+mas install 803453959	# Slack
 
 brew install --cask 1password
 brew install --cask adguard
