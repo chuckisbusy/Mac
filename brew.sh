@@ -6,41 +6,40 @@ xcode-select --install
 brew install mas
 brew install cask wget duti bash tmux rename screen youtube-dl zsh grace python@3.11
 
-mas install 430255202   # Mactracker                      (7.12.1)
-mas install 979299240   # Network Kit                     (9.0.3)
-mas install 1153157709  # Speedtest                       (1.25)
-mas install 403304796   # iNet Network Scanner            (2.9.6)
-mas install 1529448980  # Reeder                          (5.4)
-mas install 1346203938  # OmniFocus                       (3.14.3)
-mas install 1290358394  # Cardhop                         (2.2.4)
-mas install 1147396723  # WhatsApp                        (2.2301.6)
-mas install 858446756   # World Clock Pro                 (1.7.4)
-mas install 1569813296  # 1Password for Safari            (2.5.1)
-mas install 1233048948  # Boom 3D                         (1.4.1)
-mas install 403504866   # PCalc                           (4.10.5)
-mas install 1224268771  # Screens                         (4.12.6)
-mas install 1055273043  # PDF Expert                      (3.0.34)
-mas install 1438243180  # Dark Reader for Safari          (1.4.6)
-mas install 1289583905  # Pixelmator Pro                  (3.2.3)
-mas install 1348635544  # Moon Calendar for menu bar      (1.7)
-mas install 441258766   # Magnet                          (2.10.0)
-mas install 1136220934  # Infuse                          (7.4.10)
-mas install 969714962   # Television Time                 (2.1)
-mas install 568494494   # Pocket                          (1.8.7)
-mas install 494803304   # WiFi Explorer                   (3.4)
-mas install 823528286   # Folx GO+                        (5.27)
-mas install 1482454543  # Twitter                         (9.30)
-mas install 445189367   # PopClip                         (2022.12)
-mas install 409201541   # Pages                           (12.2.1)
-mas install 1195676848  # Grocery                         (3.1.1)
-mas install 979561272   # Just Press Record               (19.3)
-mas install 1492055171  # Expenses                        (2.9.7)
-mas install 457622435   # Yoink                           (3.6.84)
-mas install 1480068668  # Messenger                       (169.0)
-mas install 1463334954  # SessionRestore                  (2.7.4)
-mas install 409203825   # Numbers                         (12.2.1)
-mas install 1193539993  # Brother iPrint&Scan             (10.2.0)
-mas install 409183694   # Keynote                         (12.2.1)
+mas install 1033342465  # Just Press Record           (50.0)
+mas install 430255202   # Mactracker                  (7.13)
+mas install 979299240   # Network Kit                 (9.2.0)
+mas install 1153157709  # Speedtest                   (1.27)
+mas install 403304796   # iNet Network Scanner        (3.1.3)
+mas install 1529448980  # Reeder                      (5.4.6)
+mas install 1346203938  # OmniFocus                   (3.15.8)
+mas install 497799835   # Xcode                       (16.1)
+mas install 1290358394  # Cardhop                     (2.3.2)
+mas install 1569813296  # 1Password for Safari        (8.10.54)
+mas install 858446756   # World Clock Pro             (1.7.11)
+mas install 1233048948  # Boom 3D                     (2.2.3)
+mas install 403504866   # PCalc                       (4.10.8)
+mas install 1438243180  # Dark Reader for Safari      (2.1.1)
+mas install 1055273043  # PDF Expert                  (3.10.9)
+mas install 969714962   # TV Time                     (2.3.2)
+mas install 1136220934  # Infuse                      (8.0.4)
+mas install 1289583905  # Pixelmator Pro              (3.6.13)
+mas install 441258766   # Magnet                      (3.0.5)
+mas install 1348635544  # Moon Calendar for menu bar  (1.8.1)
+mas install 494803304   # WiFi Explorer               (3.5.3)
+mas install 823528286   # Folx GO+                    (5.27)
+mas install 1663047912  # Screens 5                   (5.4.7)
+mas install 1195676848  # Grocery                     (3.1.4)
+mas install 409201541   # Pages                       (14.2)
+mas install 1492055171  # Expenses                    (3.6.15)
+mas install 979561272   # Just Press Record           (19.3)
+mas install 1594420480  # Prompt                      (3.0.7)
+mas install 457622435   # Yoink                       (3.6.97)
+mas install 1480068668  # Messenger                   (223.0)
+mas install 1463334954  # SessionRestore              (2.8)
+mas install 409203825   # Numbers                     (14.2)
+mas install 1193539993  # Brother iPrint&Scan         (12.0.3)
+mas install 409183694   # Keynote                     (14.2)
 
 brew install --cask 1password
 brew install --cask adguard
@@ -55,10 +54,9 @@ brew install --cask fantastical
 brew install --cask github
 brew install --cask google-chrome
 brew install --cask jordanbaird-ice
+brew install --cask popclip
 brew install --cask mendeley
 brew install --cask obsidian
-brew install --cask paragon-extfs
-brew install --cask paragon-ntfs
 brew install --cask screens-connect
 brew install --cask skype
 brew install --cask soulver 
@@ -91,10 +89,8 @@ Spek
 Yates'
 
 sudo pip3 install Pygments
-rm -rf ~/.zshrc
-wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/zshrc -O ~/.zshrc
-wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/vimrc.txt -O ~/.vimrc
-wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/master/tmux-conf.txt -O ~/.tmux.conf
+wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/refs/heads/master/Mac/vimrc.txt -O ~/.vimrc
+wget -c https://raw.githubusercontent.com/chuckisbusy/dotfiles/refs/heads/master/Mac/tmux.conf.txt -O ~/.tmux.conf
 
 defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 defaults delete com.apple.dock; killall Dock
