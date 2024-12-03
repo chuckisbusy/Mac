@@ -70,6 +70,8 @@ brew install --cask vlc
 brew install --cask xld
 brew install --cask xquartz
 brew install --cask zotero
+brew tap nahive/spotify-notify
+brew install --cask spotify-notify --no-quarantine
 
 brew cleanup
 
