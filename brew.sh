@@ -4,7 +4,7 @@
 xcode-select --install
 
 brew install mas
-brew install cask wget duti bash tmux rename screen youtube-dl zsh grace python@3.11
+brew install cask wget duti bash tmux rename screen zsh grace python@3.11
 
 mas install 1033342465  # Just Press Record           (50.0)
 mas install 430255202   # Mactracker                  (7.13)
