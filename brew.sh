@@ -74,7 +74,6 @@ brew cleanup
 
 echo 'Install from Search:
 Logitech (Options(MPB),Gaming(iMac),Spotlight Presentation)
-Trakt
 Aftership
 OSXFuse
 SSHFS
