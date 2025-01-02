@@ -17,7 +17,6 @@ mas install 858446756   # World Clock Pro                             (1.7.11)
 mas install 1569813296  # 1Password for Safari                        (8.10.56)
 mas install 403504866   # PCalc                                       (4.10.8)
 mas install 1233048948  # Boom 3D                                     (2.2.3)
-mas install 1224268771  # Screens                                     (4.12.16)
 mas install 969714962   # TV Time                                     (2.3.2)
 mas install 1542143627  # OmniFocus                                   (4.5.1)
 mas install 1055273043  # PDF Expert                                  (3.10.10)
@@ -59,7 +58,7 @@ brew install --cask github
 brew install --cask google-chrome
 brew install --cask jordanbaird-ice
 brew install --cask popclip
-brew install --cask mendeley
+brew install --cask mendeley-reference-manager
 brew install --cask obsidian
 brew install --cask screens-connect
 brew install --cask skype
