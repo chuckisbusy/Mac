@@ -11,6 +11,7 @@ mas install 1153157709  # Speedtest                                   (1.27)
 mas install 403304796   # iNet Network Scanner                        (3.1.5)
 mas install 6443941139  # 2FAS - Two Factor Authentication Extension  (1.7.3)
 mas install 1529448980  # Reeder                                      (5.5)
+mas install 1542143627  # OmniFocus                                   (4.5.1)
 mas install 1290358394  # Cardhop                                     (2.3.3)
 mas install 975937182   # Fantastical                                 (4.0.3)
 mas install 858446756   # World Clock Pro                             (1.7.11)
@@ -22,6 +23,7 @@ mas install 1542143627  # OmniFocus                                   (4.5.1)
 mas install 1055273043  # PDF Expert                                  (3.10.10)
 mas install 1289583905  # Pixelmator Pro                              (3.6.14)
 mas install 1136220934  # Infuse                                      (8.0.8)
+mas install 290986013   # Deliveries                                  (9.6)
 mas install 1348635544  # Moon Calendar for menu bar                  (1.8.1)
 mas install 1438243180  # Dark Reader for Safari                      (2.1.1)
 mas install 1471849104  # Periodic Table Chemistry 2025M              (4.6)
@@ -29,15 +31,14 @@ mas install 441258766   # Magnet                                      (3.0.6)
 mas install 494803304   # WiFi Explorer                               (3.5.3)
 mas install 823528286   # Folx GO+                                    (5.27)
 mas install 1663047912  # Screens 5                                   (5.4.9)
+mas install 1590422864  # Eno From Capital One                        (4.4.0)
 mas install 1195676848  # Grocery                                     (3.1.4)
 mas install 409201541   # Pages                                       (14.3)
-mas install 979561272   # Just Press Record                           (19.3)
 mas install 1492055171  # Expenses                                    (3.6.23)
 mas install 803453959   # Slack                                       (4.41.105)
 mas install 747648890   # Telegram                                    (11.5)
 mas install 1594420480  # Prompt                                      (3.0.8)
 mas install 457622435   # Yoink                                       (3.6.98)
-mas install 639968404   # Parcel                                      (7.14.2)
 mas install 1480068668  # Messenger                                   (226.0)
 mas install 1463334954  # SessionRestore                              (2.8.2)
 mas install 409203825   # Numbers                                     (14.3)
@@ -53,15 +54,12 @@ brew install --cask calibre
 brew install --cask cookie
 brew install --cask discord
 brew install --cask dropbox
-brew install --cask fantastical
 brew install --cask github
 brew install --cask google-chrome
-brew install --cask jordanbaird-ice
 brew install --cask popclip
 brew install --cask mendeley-reference-manager
 brew install --cask obsidian
 brew install --cask screens-connect
-brew install --cask skype
 brew install --cask soulver 
 brew install --cask spotify
 brew install --cask sublime-text
@@ -70,7 +68,6 @@ brew install --cask transmit
 brew install --cask vlc
 brew install --cask xld
 brew install --cask xquartz
-brew install --cask zotero
 brew install --cask zoom
 brew cleanup
 
